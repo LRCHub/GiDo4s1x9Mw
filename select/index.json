@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たぶん終わり",
+  "base_artist": "いよわ",
+  "createdAt": "2026-03-29T11:37:55.373512Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶん終わり",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_たぶん終わり_いよわ.txt"
+    }
+  ]
+}
